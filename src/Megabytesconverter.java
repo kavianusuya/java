@@ -1,7 +1,7 @@
 public class Megabytesconverter
 {
     public static void main(String[] args){
-printmegabytesandkilobytes(2500);
+printmegabytesandkilobytes(3000);
     }
     public static void printmegabytesandkilobytes(int kilobytes)
     {

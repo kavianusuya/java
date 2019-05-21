@@ -1,6 +1,6 @@
 public class Equalityprinter {
     public static void main(String[] args){
-printequal(3,1,0);
+printequal(3,1,9);
 
     }
         public static void printequal(int x,int y,int z){

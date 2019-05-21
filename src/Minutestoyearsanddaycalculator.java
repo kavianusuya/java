@@ -1,6 +1,6 @@
 public class Minutestoyearsanddaycalculator {
     public static void main(String[] args){
-printyearsanddays(561600);
+printyearsanddays(561601);
     }
     public static void printyearsanddays(long minutes)
     {

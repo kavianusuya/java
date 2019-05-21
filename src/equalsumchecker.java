@@ -1,6 +1,6 @@
 public class equalsumchecker {
     public static void main (String[] args){
-        System.out.println(hasequalsum(3,2,5));
+        System.out.println(hasequalsum(9,2,5));
     }
     public static boolean hasequalsum(int x,int y,int z)
     {

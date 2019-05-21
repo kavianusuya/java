@@ -1,6 +1,6 @@
 public class playingcat {
     public static void main(String[] args){
-        System.out.println(iscatplaying(false,36));
+        System.out.println(iscatplaying(false,39));
     }
     public static boolean iscatplaying(boolean summer,int temperature)
     {

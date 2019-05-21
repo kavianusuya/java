@@ -1,7 +1,7 @@
 public class areacalculator {
     public static void main(String[] args)
     {
-        System.out.println(area(3.4));
+        System.out.println(area(3.5));
         System.out.println(area(1.2,1.2));
     }
     public static double area(double radius)

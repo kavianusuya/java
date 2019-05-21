@@ -21,7 +21,7 @@ public class speedconverter {
     }
         public static void main(String[] args)
         {
-            System.out.println(tomilesperhour(3.12));
+            System.out.println(tomilesperhour(3.13));
             printConversion(-1.5);
         }
     }

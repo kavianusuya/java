@@ -1,7 +1,7 @@
 public class teennumberchecker {
     public static void main(String[] args)
     {
-        System.out.println(hasteen(33,44,25));
+        System.out.println(hasteen(33,44,15));
         System.out.println(isteen(14));
     }
 public static boolean hasteen(int x,int y,int z){
